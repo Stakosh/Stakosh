@@ -5,8 +5,8 @@ I'm **Javiera Soto**, currently studying Ingeniería Civil Informática.
 
 🧠 I'm self-learning through:
 - [The Odin Project](https://www.theodinproject.com)
-- [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/)
-- [freeCodeCamp](https://www.freecodecamp.org/learn/)  
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+- [Coursera](https://www.coursera.org)
 These resources help me strengthen my understanding of core computer science concepts as I approach my final year.
 
 💻 I'm passionate about building web applications and expanding my technical toolkit.
