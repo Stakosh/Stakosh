@@ -19,7 +19,7 @@ I strengthen my CS foundations — and now my cybersecurity skills — through:
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **Entrega2** | Full‑stack platform (similar to Webcursos) for students, professors & admins | Flask • PostgreSQL • React JS • Docker/Compose |
-| **[Proyecto‑WEBC](https://github.com/Stakosh/Proyecto-WEBC)** | Professional‑programming course project — Webcursos‑style site; actualmente refactorizando el código | Flask • PostgreSQL • React JS • Docker/Compose |
+| **[Proyecto‑WEBC](https://github.com/Stakosh/Proyecto-WEBC)** | Professional‑programming course project — Webcursos‑style site; actualmente mejorando el código e intentando hacer deploy utilizando EC2 y RDS | Flask • PostgreSQL • React JS • Docker/Compose |
 | **[Cartitas](https://github.com/Stakosh/cartas)** | Serverless app where anyone can leave private “letters” (demo en Deno Deploy) | Deno (TypeScript) • Supabase • HTML/CSS/JS |
 | **xv6‑riscv** | Operating Systems course fork — explorando conceptos OS low‑level en RISC‑V | C • Assembly • QEMU |
 | **[Power BI Lab](https://github.com/Stakosh/Power-BI---The-Complete-Masterclass-2023)** | Personal repo to practise Power BI, DAX & data‑viz skills | Power BI • DAX • Power Query |
